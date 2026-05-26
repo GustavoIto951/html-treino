@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(124, 159, 255);
+    background-image: url(imagem.png);
+    background-repeat: no-repeat;
+    background-position: 300px 0px;
+}
+
+ol {
+    font-family:'Courier New', Courier, monospace;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+}
+
+p {
+    text-indent: 30px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+a:link {
+
+}
+a:visited {
+
+}
+a:active {
+
+}
+a:hover {
+
+}
